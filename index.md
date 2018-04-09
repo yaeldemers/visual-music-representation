@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## What's VRM
 
-You can use the [editor on GitHub](https://github.com/yaeldemers/Visual-Music-Representation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to the Visual Music Representation application. The following program allows you to visualize the repetitions in the notes and melodies of songs using self-similarity matrices. It reads XML music documents and creates a matrix with the all the notes in order, aligned on the top horizontal axis with their respective duration and on the also on the left vertical axis. This creates an array where squares of color are drawn at the position in the matrix where the notes on the horizontal and vertical axis are the same.
 
 ### Markdown
 
