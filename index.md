@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## What's VMR?
 
-You can use the [editor on GitHub](https://github.com/yaeldemers/Visual-Music-Representation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Visual Music Representation application. The following program allows you to visualize the repetitions in the notes and melodies of songs using self-similarity matrices. It reads XML music documents and creates a matrix with the all the notes in order, aligned on the top horizontal axis with their respective duration and on the also on the left vertical axis. This creates an array where squares of color are drawn at the position in the matrix where the notes on the horizontal and vertical axis are the same.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As mentioned before, an XML document of the song you wish to analyze is required. The steps to getting an XML document from the online website Musescore can be found in the [Medium article of the application]().
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Support
 
-```markdown
-Syntax highlighted code block
+Having trouble setting up the application? Have a look at the video where we [demo the program]().
 
-# Header 1
-## Header 2
-### Header 3
+### Credits
+We would like to thank our discrete mathematics teacher Mr. Patrick St.Amant for supporting us during this project.
 
-- Bulleted
-- List
+Moreover, this project was based off the project made by Colin Morris who wrote a similar program for the repetitions in the lyrics of pop songs. You can go check out his project on his [github page](https://colinmorris.github.io/SongSim/#/gallery).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaeldemers/Visual-Music-Representation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Authors
+F.A. Johnson. Y.J. Demers. C, Barre - 2018
