@@ -1,3 +1,4 @@
+<img src="Desktop/VMR_logo.png" alt="hi" class="inline"/>
 ## What's VMR?
 
 Welcome to the Visual Music Representation application. The following program allows you to visualize the repetitions in the notes and melodies of songs using self-similarity matrices. It reads XML music documents and creates a matrix with the all the notes in order, aligned on the top horizontal axis with their respective duration and on the also on the left vertical axis. This creates an array where squares of color are drawn at the position in the matrix where the notes on the horizontal and vertical axis are the same. The following [link](https://github.com/yaeldemers/Visual-Music-Representation) will take you to the GitHub page to download the files required to run the program. 
