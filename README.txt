@@ -1,4 +1,4 @@
-Welcome to the Visual Music Representation application. 
+## Welcome to the Visual Music Representation application. 
 
 The following program allows you to visualize the repetitions in the notes and melodies of songs using self-similarity matrices.
 It reads XML music documents and creates a matrix with the all the notes in order, aligned on the top horizontal axis with their 
@@ -23,6 +23,6 @@ We would like to thank our teacher Mr. Patrick St. Amant for supporting us durin
 the project made by Colin Morris who wrote a similar program for the repetitions in the lyrics of pop songs. You can go check out his
 project at: https://colinmorris.github.io/SongSim/#/gallery 
 
-Authors: Félix-Antoine Johnson, Yael-Jeremy Demers, Cédric Barré - 2018
+Authors: FÃ©lix-Antoine Johnson, Yael-Jeremy Demers, CÃ©dric BarrÃ© - 2018
 
   
