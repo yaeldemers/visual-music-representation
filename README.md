@@ -1,4 +1,4 @@
-## Welcome to the Visual Music Representation application. 
+### _Welcome to the Visual Music Representation application_ 
 
 The following program allows you to visualize the repetitions in the notes and melodies of songs using self-similarity matrices.
 It reads XML music documents and creates a matrix with the all the notes in order, aligned on the top horizontal axis with their 
