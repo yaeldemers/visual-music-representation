@@ -6,7 +6,9 @@ VMR allows users to visualize the repetitions in the pitches and melodies of son
 It reads XML music files and creates self-similarity matrices using a series formed from the pitches in chronological order and then aligned it on the top-horizontal axis with respective pitch duration. The same is done on the left-vertical axis. This creates an array where squares of colour are drawn at the position in the matrix where the pitches on the horizontal and vertical axis are the same.
 
 This is an example of how processing diplays a song.
+
 ![](visuals/do_i_wanna_know_vmr.jpeg)
+
 _Visual representation of Do I Wanna Know, by Arctic Monkeys_
 
 Here you can see that VMR displays different colors and patterns. 
@@ -44,7 +46,8 @@ _Note: A more indepth guide of VRM's installation and usages can be found in our
 _Note: As mentioned above, a more indepth guide of VRM's installation and usages can be found in our [Medium Article](https://medium.com/@fil4444/d796aeed567)._ 
 
 ![](visuals/mobby_dick_vmr.jpeg)
-_Visual representation of Do I Wanna Know, by Arctic Monkeys_
+
+_Visual representation of Mobby Dick, by Led Zeppelin_
 
 ## Additional information
 - Medium article : https://medium.com/@fil4444/d796aeed567
