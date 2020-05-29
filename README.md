@@ -59,4 +59,5 @@ We would like to thank our discrete mathematics teacher Dr. Patrick St.Amant for
 
 ## Authors
 Cédric Barré, Yael Demers, Félix-Antoine Johnson - 2018
+
   
