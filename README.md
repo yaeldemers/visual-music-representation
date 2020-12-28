@@ -23,7 +23,7 @@ _Note the following:_
 
 ## Installation
 
-1) In order to run the VMR applicatioh, users will need to have the following program working in their computer:
+1) In order to run the VMR application, users will need to have the following program working in their computer:
    - [Processing](https://processing.org/)
    - [XMLwritter](https://xmlwriter.net/)
    - [Musescore](https://musescore.org/en)
