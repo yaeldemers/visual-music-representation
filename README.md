@@ -1,5 +1,5 @@
 ![](visuals/logo_vmr.jpg)
-### _Visual Music Representation - or how to visualize music melodies_ 
+### _Visual Music Representation - visualizing melodic repetitions_ 
 
 ## Features
 VMR allows users to visualize the repetitions in the pitches and melodies of songs using self-similarity matrices (or recurence-plots).
@@ -60,4 +60,6 @@ We would like to thank our discrete mathematics teacher Dr. Patrick St.Amant for
 ## Authors
 Cédric Barré, Yael Demers, Félix-Antoine Johnson - 2018
 
-  
+| C. Barré | Y. Demers | F. Johnson  |
+| :---:     | :-:         | :-:         |
+| https://github.com/cedricBarre | https://github.com/yaeldemers | N/A |  
