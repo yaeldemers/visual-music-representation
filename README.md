@@ -1,11 +1,11 @@
 ![](visuals/logo_vmr.jpg)
-### _Visual Music Representation - visualizing melodic repetitions_ 
+### _A Java/Processing integration of self-similarity matrices to visualize melodic repetitions_ 
 
 ## Features
 VMR allows users to visualize the repetitions in the pitches and melodies of songs using self-similarity matrices (or recurence-plots).
 It reads XML music files and creates self-similarity matrices using a series formed from the pitches in chronological order and then aligned it on the top-horizontal axis with respective pitch duration. The same is done on the left-vertical axis. This creates an array where squares of colour are drawn at the position in the matrix where the pitches on the horizontal and vertical axis are the same.
 
-This is an example of how processing diplays a song.
+This is an example of how VMR (through processing) diplays a song.
 
 ![](visuals/do_i_wanna_know_vmr.jpeg)
 
@@ -55,11 +55,12 @@ _Visual representation of Mobby Dick, by Led Zeppelin_
 - Youtube demo   : https://youtu.be/u8QVg0CY61k
 
 ## Testimonials
-We would like to thank our discrete mathematics teacher Dr. Patrick St.Amant for guiding us through this project. Moreover, this project was based off a project made by Colin Morris who wrote a similar program for the repetitions in the lyrics of pop songs. You can go check out his work at : https://colinmorris.github.io/SongSim/#/gallery
+We would like to thank our discrete mathematics professor Dr. Patrick St.Amant for guiding us through this project. Moreover, this project was based off a project made by Colin Morris who wrote a similar program for the repetitions in the lyrics of pop songs. 
+You can go check out his work at : https://colinmorris.github.io/SongSim/#/gallery
 
 ## Authors
 Cédric Barré, Yael Demers, Félix-Antoine Johnson - 2018
 
-| C. Barré | Y. Demers | F. Johnson  |
+| C. Barré | Y. Demers | F.A. Johnson  |
 | :---:     | :-:         | :-:         |
 | https://github.com/cedricBarre | https://github.com/yaeldemers | N/A |  
