@@ -63,4 +63,4 @@ Cédric Barré, Yael Demers, Félix-Antoine Johnson - 2018
 
 | C. Barré | Y. Demers | F.A. Johnson  |
 | :---:     | :-:         | :-:         |
-| https://github.com/cedricBarre | https://github.com/yaeldemers | N/A |  
+| https://github.com/cedricBarre | https://github.com/yaeldemers | https://github.com/fajohnson |  
